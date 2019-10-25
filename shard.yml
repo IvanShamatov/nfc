@@ -1,0 +1,9 @@
+name: nfc
+version: 0.1.0
+
+authors:
+  - Ivan Shamatov <status.enable@gmail.com>
+
+crystal: 0.31.1
+
+license: MIT
